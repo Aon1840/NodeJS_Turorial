@@ -1,0 +1,23 @@
+{
+  "name": "node_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex01_helloworld.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aon1840/NodeJS_Turorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aon1840/NodeJS_Turorial/issues"
+  },
+  "homepage": "https://github.com/Aon1840/NodeJS_Turorial#readme"
+}
